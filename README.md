@@ -1,4 +1,4 @@
-This is a sample code for executing files on the system using Node.js
+This is a simple program for executing files on the system using Node.js
 
 Steps to install:
 
@@ -8,8 +8,8 @@ Steps to install:
 
 3) npm install
 
-4) Make changes to index.js in routes directory by insering the path to the exectable file.
+4) Update index.js with the file you wish to execute.
 
-5) Execute: sudo bin/www or for windows open cmd/git bash in 'Run as Administrator' mode
+5) Execute: sudo bin/www
 
 6) Open http://localhost:3000 in your browser.
